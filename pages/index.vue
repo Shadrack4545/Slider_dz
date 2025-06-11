@@ -76,7 +76,7 @@ At the Venice Architecture Biennale, Rolex unveiled a new pavilion designed by a
 
 <script setup>
 import { ref } from 'vue';
-import Slider from '~/components/Slider.vue';
+import Slider from '~/components/swiperSlider.vue';
 import MyButton from '~/components/UI/Buttons/MyButton.vue';
 
 import { useRouter } from 'vue-router';
